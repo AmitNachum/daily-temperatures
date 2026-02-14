@@ -13,4 +13,4 @@ COPY . .
 RUN make
 
 # Run the program
-CMD ["./main"]
+CMD ["./daily_temp"]
